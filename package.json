@@ -41,7 +41,7 @@
     "consola": "^2.10.1",
     "cross-spawn": "^6.0.5",
     "eslint": "~6.1.0",
-    "eslint-multiplexer": "^1.0.4",
+    "eslint-multiplexer": "^2.0.0",
     "esm": "^3.2.25",
     "execa": "^2.0.4",
     "express": "^4.17.1",
